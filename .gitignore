@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specific test-files
+wordlist
+output
+input
+new_sentences
+word_list
+sentence_list
